@@ -2,4 +2,6 @@
  - hosts: localhost
    tasks:
     - name: inssta
-      ping:
+      debug: msg="vignesj"
+
+      
